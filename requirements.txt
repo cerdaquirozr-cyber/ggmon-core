@@ -1,8 +1,4 @@
 pyrogram
 tgcrypto
 python-binance
-kubernetes
-opentelemetry-api
-opentelemetry-sdk
-prometheus-client
 requests

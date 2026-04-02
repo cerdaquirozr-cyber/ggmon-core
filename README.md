@@ -1,5 +1,5 @@
 ggmon-core/
-├── LEADME.md                    # El grande (te lo doy listo)
+├── README.md                    # El grande (te lo doy listo)
 ├── LICENSE                      # MIT
 ├── .gitignore
 ├── requirements.txt

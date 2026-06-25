@@ -1,11 +1,11 @@
 ggmon-core/
-├── README.md                    # El grande (te lo doy listo)
+├── README.md                    # El grande (Listo)
 ├── LICENSE                      # MIT
 ├── .gitignore
 ├── requirements.txt
-├── setup.py                     # opcional pero profesional
+├── setup.py                     # Configuración del entorno
 ├── data/
-│   └── raw_links_2023-2026.txt  # (todas las partes que me mandaste)
+│   └── raw_links_2023-2026.txt  # Historial de enlaces
 ├── soundcloud/
 │   ├── organizer.py             # El script maestro
 │   └── playlists/
@@ -54,7 +54,9 @@ Python • Pyrogram • Kubernetes • Ceph • Binance API • Google ADK • C
 
 ## Plataformas de Audio Integradas
 - [SoundCloud Oficial - Ramón Cerda Quiroz](https://soundcloud.com/ramoncerdaquiroz) - Catálogo maestro y streamings de audio.
-- pkg update && pkg install -y \
+
+```bash
+pkg update && pkg install -y \
 n-t-roff-sc nmh nss-utils pari pb pet php pick picolisp pigz \
 pikiwidb poke procps proot-distro pup pv python-pip ripgrep \
 ripgrep-all silversearcher-ag spek tcllib termux-tools ugrep \
@@ -63,20 +65,3 @@ ruby nano git curl wget python neovim \
 coreutils findutils util-linux gawk gnupg golang \
 graphicsmagick graphviz groff kakoune moreutils \
 age agg ark duktape gh ghostscript gn gpgv lvm2 mg mtools
-
-
-**# Ramón Cerda Quiroz - Universo de Música y Criptotecnología 🚀⚡
-
-¡Bienvenidos al centro de comando creativo! Este espacio fusiona la adrenalina del ecosistema financiero cripto, el desarrollo de contratos inteligentes en blockchain y el poder underground del Tech House e Industrial Cyberpunk.
-
-## 🎧 Lanzamientos Destacados & Bootlegs
-- **Binance Protocol:** Una experiencia sonora de alta energía diseñada para simular el inicio de un juego financiero de alta velocidad. (Género: Tech House / Electronic, 2026).
-- **Titan's Gate:** La banda sonora industrial hacia la megacorporaciones del mañana y el espacio profundo, con sintetizadores analógicos desgarradores.
-- **Gwen Stefani - The Sweet Escape (Ramon Cerda Quiroz Remix):** Un dance remix potente y dinámico diseñado para reventar la pista de club actual rescatando vibras pop nostálgicas.
-
-## 💻 Arquitectura Tecnológica & Recursos Cripto
-- **Programación en Solana:** Integración con el modelo de desarrollo de Solana para la infraestructura de dApps y posibles colecciones de NFTs musicales.
-- **Monitoreo de Mercados:** Análisis de flujos de sentimiento a través de foros especializados y APIs corporativas.
-- **Automatización en Termux:** Entorno local robusto para scripts de compilación multimedia y utilidades de red.
-- **  
-Michoacán / Guadalajara • 2026

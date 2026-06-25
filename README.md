@@ -53,13 +53,14 @@ Python • Pyrogram • Kubernetes • Ceph • Binance API • Google ADK • C
 - [Reddit Cryptocurrency Community](https://www.reddit.com/r/cryptocurrency) - Monitoreo de tendencias y sentimiento del mercado global.
 
 ## Plataformas de Audio Integradas
-- [SoundCloud Oficial - Ramón Cerda Quiroz](https://soundcloud.com/ramoncerdaquiroz) - Catálogo maestro y streamings de audio.
+- [SoundCloud Artista Pro ⚡ (Principal)](https://soundcloud.com/ramon_cq) - Catálogo activo, streamings oficiales de alta fidelidad y lanzamientos Pro 2026.
+- [SoundCloud Histórico (Archivo)](https://soundcloud.com/ramoncerdaquiroz) - Respaldo del catálogo maestro previo y sesiones anteriores.
 
 ```bash
 pkg update && pkg install -y \
 n-t-roff-sc nmh nss-utils pari pb pet php pick picolisp pigz \
-pikiwidb poke procps proot-distro pup pv python-pip ripgrep \
-ripgrep-all silversearcher-ag spek tcllib termux-tools ugrep \
+pikiwidb poke procps proot-distro pup pv python-pip rigrepa \
+rigrep-all silversearcher-ag spek tcllib termux-tools ugrep \
 wireguard-tools wrk zk \
 ruby nano git curl wget python neovim \
 coreutils findutils util-linux gawk gnupg golang \
